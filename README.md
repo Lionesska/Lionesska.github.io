@@ -1,4 +1,6 @@
 # Lioness
 Portfolio
 
-[main](Lionesska.github.io/main/)
+[Main](Lionesska.github.io/main/)
+[WebDev](Lionesska.github.io/webdev/)
+[Cuda](Lionesska.github.io/cuda/)
