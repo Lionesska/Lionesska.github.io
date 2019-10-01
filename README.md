@@ -1,7 +1,7 @@
 # Lioness
 Portfolio
 
-* [Без грани](Lionesska.gitub.io/Без Грани/)
+* [Bez grani](Lionesska.gitub.io/Bez grani/)
 * [Main](Lionesska.github.io/main/)
 * [Restoran](Lionesska.github.io/Restoran/)
 * [Foinni](Lionesska.github.io/Foinni/)
