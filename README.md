@@ -9,3 +9,4 @@ Portfolio
 * [ZET](Lionesska.github.io/ZET/)
 * [WebDev](Lionesska.github.io/webdev/)
 * [Luxo](Lionesska.github.io/luxo/)
+* [Luxo](Lionesska.github.io/CUDA/)
